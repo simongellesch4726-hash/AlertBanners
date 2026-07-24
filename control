@@ -1,0 +1,9 @@
+Package: com.pizzle.alertbanners
+Name: AlertBanners
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Description: AlertBanners tweak
+Maintainer: Pizzle
+Author: Pizzle
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader

@@ -1,0 +1,39 @@
+[0;36m==> [1;39mCleaning…[m
+[1;31m> [1;3;39mMaking clean in Preferences…[m
+[0;36m==> [1;39mCleaning…[m
+[1;31m> [1;3;39mMaking all for tweak AlertBanners…[m
+[0;31m==> [1;39mPreprocessing Tweak.x…[m
+[0;31m==> [1;39mPreprocessing Tweak.x…[m
+[0;32m==> [1;39mCompiling Tweak.x (arm64)…[m
+[0;32m==> [1;39mCompiling Tweak.x (arm64e)…[m
+[0;33m==> [1;39mLinking tweak AlertBanners (arm64)…[m
+[0;34m==> [1;39mStripping AlertBanners (arm64)…[m
+strip: warning: changes being made to the file will invalidate the code signature in: /rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-361AD23B8B9F04D5/var/mobile/Tools4cydia-FlexPatch/AlertBanners/.theos/obj/arm64/AlertBanners.dylib
+[0;33m==> [1;39mLinking tweak AlertBanners (arm64e)…[m
+ld: warning: object file /var/containers/Bundle/Application/.jbroot-361AD23B8B9F04D5/var/mobile/Tools4cydia-FlexPatch/AlertBanners/.theos/obj/arm64e/Tweak.x.b8aebfcf.o was built with an incompatible arm64e ABI compiler
+[0;34m==> [1;39mStripping AlertBanners (arm64e)…[m
+strip: warning: changes being made to the file will invalidate the code signature in: /rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-361AD23B8B9F04D5/var/mobile/Tools4cydia-FlexPatch/AlertBanners/.theos/obj/arm64e/AlertBanners.dylib
+[0;34m==> [1;39mMerging tweak AlertBanners…[m
+[0;34m==> [1;39mSigning AlertBanners…[m
+[1;31m> [1;3;39mMaking all in Preferences…[m
+[1;31m> [1;3;39mMaking all for bundle AlertBannersPrefs…[m
+[0;35m==> [1;39mCopying resource directories into the bundle wrapper…[m
+[0;32m==> [1;39mCompiling AlertBannersPrefs.mm (arm64)…[m
+[0;32m==> [1;39mCompiling AlertBannersPrefs.mm (arm64e)…[m
+[0;33m==> [1;39mLinking bundle AlertBannersPrefs (arm64e)…[m
+ld: warning: object file /var/containers/Bundle/Application/.jbroot-361AD23B8B9F04D5/var/mobile/Tools4cydia-FlexPatch/AlertBanners/.theos/obj/arm64e/AlertBannersPrefs.mm.6abe4813.o was built with an incompatible arm64e ABI compiler
+[0;34m==> [1;39mStripping AlertBannersPrefs (arm64e)…[m
+strip: warning: changes being made to the file will invalidate the code signature in: /rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-361AD23B8B9F04D5/var/mobile/Tools4cydia-FlexPatch/AlertBanners/.theos/obj/arm64e/AlertBannersPrefs.bundle/AlertBannersPrefs
+[0;33m==> [1;39mLinking bundle AlertBannersPrefs (arm64)…[m
+[0;34m==> [1;39mStripping AlertBannersPrefs (arm64)…[m
+strip: warning: changes being made to the file will invalidate the code signature in: /rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-361AD23B8B9F04D5/var/mobile/Tools4cydia-FlexPatch/AlertBanners/.theos/obj/arm64/AlertBannersPrefs.bundle/AlertBannersPrefs
+[0;34m==> [1;39mMerging bundle AlertBannersPrefs…[m
+[0;34m==> [1;39mSigning AlertBannersPrefs…[m
+[1;31m> [1;3;39mMaking stage for tweak AlertBanners…[m
+[1;31m> [1;3;39mMaking stage in Preferences…[m
+[1;31m> [1;3;39mMaking stage for bundle AlertBannersPrefs…[m
+Converted 1 files to binary format
+Converted 1 files to binary format
+Converted 1 files to binary format
+Converted 1 files to binary format
+dm.pl: building package `com.pizzle.alertbanners:iphoneos-arm64e' in `./packages/com.pizzle.alertbanners_0.0.3_iphoneos-arm64e.deb'
